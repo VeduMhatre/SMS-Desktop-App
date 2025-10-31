@@ -1,0 +1,10 @@
+# Compiled Java classes and jars
+*.class
+*.jar
+
+# Configuration and Security
+db.properties
+
+# OS generated files
+.DS_Store
+Thumbs.db
